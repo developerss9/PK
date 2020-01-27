@@ -44,9 +44,9 @@
       "version_code": "2",
       "new_version_code": "2",
       "message": "Update new Version is available to download. ",
-      "custom_adurl": "",
-      "customad_pkg": "",
-      "cust_isshow": "false"
+      "custom_adurl": "https://raw.githubusercontent.com/developerss9/images/master/Music_Ad_Banner.png",
+      "customad_pkg": "com.musicplayer.galaxymusicplayer.mp3player",
+      "cust_isshow": "true"
     }
   ]
 }
