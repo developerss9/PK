@@ -21,8 +21,8 @@
       "new_version_code": "1",
       "message": "Update new Version is available to download. ",
       "custom_adurl": "https://raw.githubusercontent.com/developerss9/images/master/Music_Ad_Banner.png",
-      "customad_pkg": "com.musicplayer.galaxymusicplayer.mp3player",
-      "cust_isshow": "true"
+      "customad_pkg": "com.whatsapp",
+      "cust_isshow": "false"
     },
     {
       "package_name": "corner.photo.gallery.album",
@@ -45,8 +45,8 @@
       "new_version_code": "2",
       "message": "Update new Version is available to download. ",
       "custom_adurl": "https://raw.githubusercontent.com/developerss9/images/master/Music_Ad_Banner.png",
-      "customad_pkg": "com.musicplayer.galaxymusicplayer.mp3player",
-      "cust_isshow": "true"
+      "customad_pkg": "com.whatsapp",
+      "cust_isshow": "false"
     }
   ]
 }
